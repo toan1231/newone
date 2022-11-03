@@ -1,3 +1,3 @@
-public class minhminh {
+public class  Hong
     public String name="joh";
 }
